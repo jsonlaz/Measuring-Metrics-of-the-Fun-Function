@@ -8,8 +8,9 @@ number of iterations of the for loop.
 
 ## Reesult
 
-create figure with two subplots
+Create a figure with two subplots.
 
+![Subplots](https://github.com/jsonlaz/Measuring-Metrics-of-the-Fun-Function/blob/main/result/ml.PNG)
 
 ## Conclusion
 
