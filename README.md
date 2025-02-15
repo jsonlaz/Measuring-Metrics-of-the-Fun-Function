@@ -16,3 +16,11 @@ Create a figure with two subplots.
 
 The code demonstrates how to define a MATLAB function, apply it to a random input vector, and visualize the input and output vectors using subplots. It also shows how to 
 measure the performance of the function in terms of execution time, memory usage, and number of iterations, and how to save and publish the results as a PDF file
+
+## Contributing
+
+If you'd like to contribute to this project by suggesting improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
